@@ -52,3 +52,7 @@ a:hover{
   padding-top: 10%;
   line-height: 1.8em;
 }
+
+.active {
+  text-decoration: none;
+}
