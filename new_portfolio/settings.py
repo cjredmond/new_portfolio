@@ -1,3 +1,4 @@
+import dj_database_url
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -13,7 +14,7 @@ SECRET_KEY = '@s92rn#j0d1*v81fjyhq@)45!k479_^(#9r%(z@(p1hflm%b05'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gentle-shelf-27277.herokuapp.com', 'localhost']
 
 
 # Application definition
