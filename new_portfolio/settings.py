@@ -14,7 +14,7 @@ SECRET_KEY = '@s92rn#j0d1*v81fjyhq@)45!k479_^(#9r%(z@(p1hflm%b05'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['gentle-shelf-27277.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['cjredmond.herokuapp.com', 'cjredmond.com']
 
 
 # Application definition
